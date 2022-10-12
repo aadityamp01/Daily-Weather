@@ -1,15 +1,15 @@
 # Daily-Weather
 
-### Daily Weather Application provides user a weather updates and forcast.
+### Daily Weather Application provides user a weather updates and forecast.
 
 ## Features of the App
- 1. User can Search for prefered location
- 2. Forcast next five days of weather most appropriatly
- 3. Easy to use clearn UI
+ 1. User can Search for preferred location
+ 2. Forecast next five days of weather most appropriately
+ 3. Easy to use clean UI
 
 ## Technology Used
  1. Android/IOS/WEB/MACOS
  2. Flutter
- 3. MVC Architechture
+ 3. MVC Architecture
  4. REST API
  5. OpenWeatherMap

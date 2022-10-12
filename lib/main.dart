@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
           caption: const TextStyle(color: Colors.white70, fontSize: 13),
         ),
       ),
-      home: const WeatherPage(city: 'London'),
+      home: const WeatherPage(city: 'Pune'),
     );
   }
 }
